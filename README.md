@@ -8,20 +8,14 @@ The purpose of this repo is to practice the building blocks of C#
 C# building blocks largely overlap with other programming languages so it is fairly easy to pick up.
 
 
+In the words of Brian Kernighan:
 > Controlling complexity is the essence of computer programming.
 
-                                        - Brian Kernighan
 
+In the words of Edsger W. Dijkstra:
 > Simplicity is prerequisite for reliability.
 
-                                        - Edsger W. Dijkstra
 
-
-
-
-1. First line
-    _ First nested list item
-        _ Second nested list item
 
 ## Building blocks to practice
 - [x] Basic Syntax
