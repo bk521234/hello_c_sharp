@@ -17,7 +17,7 @@ In the words of Edsger W. Dijkstra:
 
 
 
-## Building blocks to practice
+## Building blocks to practice :floppy_disk:
 - [x] Basic Syntax
 - [ ] Data Types
 - [ ] Type Conversion
@@ -26,9 +26,9 @@ In the words of Edsger W. Dijkstra:
 - [ ] Operators
 - [x] Decision Making
 - [x] Loops
-- [ ] Encapsulation
-- [ ] Methods
-- [ ] Nullables
+- [x] Encapsulation
+- [x] Methods
+- [x] Nullables
 - [ ] Arrays
 - [ ] Strings
 - [ ] Structure
