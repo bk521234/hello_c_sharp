@@ -30,7 +30,7 @@ Edsger W. Dijkstra:
 - [x] Methods
 - [x] Nullables
 - [x] Arrays
-- [ ] Strings
+- [x] Strings
 - [ ] Structure
 - [ ] Enums
 - [ ] Classes
