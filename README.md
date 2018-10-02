@@ -7,17 +7,17 @@ The purpose of this repo is to practice the building blocks of C#
 ## Observations
 C# building blocks largely overlap with other programming languages so it is fairly easy to pick up.
 
-
-In the words of Brian Kernighan:
+## Quotes of wisdom
+Brian Kernighan:
 > Controlling complexity is the essence of computer programming.
 
 
-In the words of Edsger W. Dijkstra:
+Edsger W. Dijkstra:
 > Simplicity is prerequisite for reliability.
 
 
 
-## Building blocks to practice
+## Building blocks to practice :floppy_disk:
 - [x] Basic Syntax
 - [ ] Data Types
 - [ ] Type Conversion
@@ -26,10 +26,10 @@ In the words of Edsger W. Dijkstra:
 - [ ] Operators
 - [x] Decision Making
 - [x] Loops
-- [ ] Encapsulation
-- [ ] Methods
-- [ ] Nullables
-- [ ] Arrays
+- [x] Encapsulation
+- [x] Methods
+- [x] Nullables
+- [x] Arrays
 - [ ] Strings
 - [ ] Structure
 - [ ] Enums
