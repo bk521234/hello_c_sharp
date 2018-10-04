@@ -31,10 +31,10 @@ Edsger W. Dijkstra:
 - [x] Nullables
 - [x] Arrays
 - [x] Strings
-- [ ] Structure
-- [ ] Enums
-- [ ] Classes
-- [ ] Inheritance
+- [x] Structure
+- [x] Enums
+- [x] Classes
+- [x] Inheritance
 - [ ] Polymorphism
 - [ ] Operation Overloading
 - [ ] Interfaces
