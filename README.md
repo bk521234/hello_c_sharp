@@ -35,10 +35,10 @@ Edsger W. Dijkstra:
 - [x] Enums
 - [x] Classes
 - [x] Inheritance
-- [ ] Polymorphism
+- [x] Polymorphism
 - [ ] Operation Overloading
 - [ ] Interfaces
-- [ ] Namespaces
+- [x] Namespaces
 - [ ] Preprocessor Directives
 - [ ] Regular Expressions
 - [ ] Exception Handling
