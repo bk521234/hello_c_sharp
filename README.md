@@ -36,12 +36,12 @@ Edsger W. Dijkstra:
 - [x] Classes
 - [x] Inheritance
 - [x] Polymorphism
-- [ ] Operation Overloading
-- [ ] Interfaces
+- [x] Operation Overloading
+- [x] Interfaces
 - [x] Namespaces
-- [ ] Preprocessor Directives
+- [x] Preprocessor Directives
 - [ ] Regular Expressions
-- [ ] Exception Handling
+- [x] Exception Handling
 - [ ] File I/O
 
 - [ ] Attributes
